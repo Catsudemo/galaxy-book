@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
 }
 
@@ -19,4 +19,26 @@
 
 .App-link {
   color: #09d3ac;
+} */
+
+.body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+div .transparent-box {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+
+div .transparent-box p {
+  margin: 5%;
+  font-family: monospace;
+}
+
+.home-page-text-box {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
